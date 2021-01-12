@@ -4,6 +4,8 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 <https://www.youtube.com/watch?v=Sklc_fQBmcs>
 
+Render React apps on the server (like SSR) while still being interactive. Folders and files map out the URL routes. SSG (build once), SSR (serve latest), ISR (regenerate page with min time interval).
+
 <!-- ## From scratch
 
 Using [`yarn`](https://github.com/hchiam/learning-yarn):
