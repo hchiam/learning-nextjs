@@ -22,36 +22,6 @@ Or `my-app`, try opening <http://localhost:3000/hello> or <http://localhost:3000
 
 The `/api` routes are just for server/BackEnd-only or API usage.
 
-<!-- ## From scratch
+## React notes
 
-Using [`yarn`](https://github.com/hchiam/learning-yarn):
-
-```bash
-yarn add
-```
-
-Or with `npm`:
-
-```bash
-npm install
-```
-
-And then:
-
-```bash
-
-```
-
-## Starting by testing out this repo
-
-Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
-
-```bash
-git clone https://github.com/hchiam/learning-nextjs.git && cd learning-nextjs && yarn; # and then ...
-```
-
-Or with `npm`: (triple-click to select all)
-
-```bash
-git clone https://github.com/hchiam/learning-nextjs.git && cd learning-nextjs && npm install; # and then ...
-``` -->
+<https://github.com/hchiam/learning-reactjs>
