@@ -2,9 +2,11 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+Server React apps/sites faster on the web by rendering them on the server (like SSR), while still being interactive, and being crawlable for SEO. Folders and files map out the URL routes. SSG (build and cache a small static site), SSR (serve latest), ISR (regenerate page with min time interval).
+
 <https://www.youtube.com/watch?v=Sklc_fQBmcs>
 
-Server React apps/sites faster on the web by rendering them on the server (like SSR), while still being interactive, and being crawlable for SEO. Folders and files map out the URL routes. SSG (build and cache a small static site), SSR (serve latest), ISR (regenerate page with min time interval).
+Interactive beginner tutorial with quizzes: <https://nextjs.org/learn>
 
 <https://github.com/fireship-io/nextjs-basics>
 
