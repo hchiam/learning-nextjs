@@ -24,6 +24,8 @@ Or `my-app`, try opening <http://localhost:3000/hello> or <http://localhost:3000
 
 The `/api` routes are just for server/BackEnd-only or API usage.
 
+Another initialization option: `npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn-starter/tree/master/learn-starter"`
+
 ## React notes
 
 <https://github.com/hchiam/learning-reactjs>
