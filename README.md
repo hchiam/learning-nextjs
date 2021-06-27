@@ -10,10 +10,6 @@ Interactive beginner tutorial with quizzes: <https://nextjs.org/learn>
 
 <https://github.com/fireship-io/nextjs-basics>
 
-<https://nextjs.org>
-
-<https://nextjs.org/learn/basics/create-nextjs-app>
-
 ## From scratch
 
 ```bash
